@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46783707780",
+    "project_id": "kargo-app-55246",
+    "storage_bucket": "kargo-app-55246.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46783707780:android:ba60aa135b9d33847520d1",
+        "android_client_info": {
+          "package_name": "com.example.kargotakip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhzVX2FKtsAva0P7zcCjONQF9zFn56A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
